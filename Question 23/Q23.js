@@ -1,6 +1,5 @@
 "use strict";
 // Q23 Answer:
-Object.defineProperty(exports, "__esModule", { value: true });
 // let car = 'subaru';
 // console.log("Is car == 'subaru'? I predict True.")
 // console.log(car == 'subaru')
